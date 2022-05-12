@@ -1,9 +1,12 @@
 import unittest
-import script
 
 
-class TestScript(unittest.TestCase):
-    def setUp(self):
-        print('About to start a function')
+class TestGame(unittest.TestCase):
+    def test_input(self):
+        pass
+
+
+if __name__ == '__main__':
+    unittest.main()
 
 
