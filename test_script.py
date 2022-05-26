@@ -1,4 +1,5 @@
 import unittest
+import script
 
 
 class TestGame(unittest.TestCase):
