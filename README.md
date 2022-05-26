@@ -1,1 +1,4 @@
-# sobiah-selvarajah-testing
+# Guessing Game
+
+A simple guessing game with unit testing.
+
